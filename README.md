@@ -4,7 +4,9 @@ Today I learned Python fundamentals
 today I learned how to create sloppy bash scripts
 Look at it:
 
-pass 2 arguments 
+ Create a shell script with code bellow andpass 2 arguments :
+
+
 #!/bin/bash
 curl -X POST -F username=$1 -F password=secret http://localhost:8000/auth | grep -o -P '(?<="access_token":").*(?=","token_type")' >token1.txt
 token=$(cat token1.txt)
