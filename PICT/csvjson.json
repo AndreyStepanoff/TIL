@@ -1,0 +1,492 @@
+[
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Mocha",
+    "WebFramework": "Puppeteer",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "Android",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "PyTest",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jest",
+    "WebFramework": "Cypress",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Mocha",
+    "WebFramework": "WebdriverIO",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "JUnit",
+    "WebFramework": "Selenide",
+    "MobileFramework": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "iOS",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "Nose2",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "Android",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jest",
+    "WebFramework": "WebdriverIO",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "TestNG",
+    "WebFramework": "Selenide",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "PyTest",
+    "WebFramework": "Helium",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "Android",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "TestNG",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "Nose2",
+    "WebFramework": "Helium",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jest",
+    "WebFramework": "Serenity",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jest",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "iOS",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "Cypress",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Mocha",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "CodeceptJS",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "JUnit",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Espresso",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Mocha",
+    "WebFramework": "Cypress",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "iOS",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "TestNG",
+    "WebFramework": "Selenide",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "Serenity",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "Android",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jest",
+    "WebFramework": "CodeceptJS",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "Nose2",
+    "WebFramework": "Helium",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "Unittest",
+    "WebFramework": "Helium",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "iOS",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "JUnit",
+    "WebFramework": "Selenide",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "Puppeteer",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "Android",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "Unittest",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "WebdriverIO",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "Nose2",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Web",
+    "MobilePlatform": "Android",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Mocha",
+    "WebFramework": "Serenity",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "JUnit",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Mocha",
+    "WebFramework": "CodeceptJS",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "CodeceptJS",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "PyTest",
+    "WebFramework": "Playwrite",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Hybrid",
+    "MobilePlatform": "iOS",
+    "Browser": "Chrome",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jest",
+    "WebFramework": "Puppeteer",
+    "MobileFramework": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "iOS",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "Python",
+    "UnitFramework": "Unittest",
+    "WebFramework": "Helium",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Safari",
+    "ProgrammingLanguage": "JS",
+    "UnitFramework": "Jasmine",
+    "WebFramework": "Puppeteer",
+    "MobileFramework": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "ApplicationType": "Mobile Native",
+    "MobilePlatform": "Android",
+    "Browser": "Firefox",
+    "ProgrammingLanguage": "Java",
+    "UnitFramework": "JUnit",
+    "WebFramework": "Selenide",
+    "MobileFramework": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "ApplicationType": "album, year, US_peak_chart_post",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "The White Stripes, 1999, -",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "De Stijl, 2000, -",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "White Blood Cells, 2001, 61",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "Elephant, 2003, 6",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "Get Behind Me Satan, 2005, 3",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "Icky Thump, 2007, 2",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "Under Great White Northern Lights, 2010, 11",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "Live in Mississippi, 2011, -",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "Live at the Gold Dollar, 2012, -",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  },
+  {
+    "ApplicationType": "Nine Miles from the White City, 2013, -",
+    "MobilePlatform": "",
+    "Browser": "",
+    "ProgrammingLanguage": "",
+    "UnitFramework": "",
+    "WebFramework": "",
+    "MobileFramework": "",
+    "Infrastructure": ""
+  }
+]
