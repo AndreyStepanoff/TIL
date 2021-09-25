@@ -1,0 +1,10 @@
+allure*
+.idea
+node_modules
+*.log
+*.js
+!wdio.conf.js
+*.d.ts
+!types/wdio-allure-reporter/index.d.ts
+dist
+.DS_Store
