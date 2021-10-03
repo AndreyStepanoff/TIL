@@ -6,9 +6,9 @@ ZIP_NAME="$ALLURE.zip"
 
 if [ ! -d "$ALLURE_FOLDER" ]; then
   curl -L "https://github.com/allure-framework/allure2/releases/download/$ALLURE_VERSION/allure-$ALLURE_VERSION.zip" -o "$ZIP_NAME"
-  unzip "$ZIP_NAME" && mv "allure-$ALLURE_VERSION" "$ALLURE" && rm "$ALLURE.zip"
+  unzip "$ZIP_NAME" && mv "allure-$ALLURE_VERSION" "$ALLURE"
 fi
 
 ALLURE_BIN="./$ALLURE/bin/allure"
-$ALLURE_BIN generate -c -o allure-report allure-results
-$ALLURE_BIN open allure-report
+$ALLURE_BIN generate -c -o build/reports/allure-report allure-results
+$ALLURE_BIN open build/reports/allure-report
